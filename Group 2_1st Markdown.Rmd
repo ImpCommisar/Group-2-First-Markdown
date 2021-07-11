@@ -30,3 +30,38 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+## Why do we need to study and analyze data? (Abel)
+
+- Data when analysed and used can influenced a lot of things from a regular person everyday activities to that of a country's economy and government
+
+- It can help the person improve their analytical skills which can be useful in some field
+
+- Solution to a problem can originate from a unconventional or not expected way
+
+- It can be used to backup or disprove arguments
+
+- Make Informed Decisions
+
+- Optimizations
+
+
+## One instance or application where data science was used.
+UPS: OPTIMIZING PACKAGE ROUTING
+
+STREETLIGHT DATA: TRAFFIC PATTERNS, AND NOT JUST FOR CARS
+
+RSPCT: BASKETBALL-COACHING SENSOR
+
+ICE: FACIAL RECOGNITION IN ID DATABASES
+
+IRS: EVADING TAX EVASION
+
+SOVRN: AUTOMATED AD PLACEMENT
+
+Deepfake
+
+## Proposal
+
+Chatbot
+
