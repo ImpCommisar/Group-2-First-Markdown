@@ -45,3 +45,36 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+## Why do we need to study and analyze data? (Abel)
+
+- Data when analysed and used can influenced a lot of things from a regular person everyday activities to that of a country's economy and government
+
+- It can help the person improve their analytical skills which can be useful in some field
+
+- Solution to a problem can originate from a unconventional or not expected way
+
+- It can be used to backup or disprove arguments
+
+- Make Informed Decisions
+
+- Optimizations
+
+
+## One instance or application where data science was used.
+
+It can be used in business where it can help the company save money. An example of this is the Network Planning Tool that UPS use to optimize package transport from drop-off to delivery. It does this by using machine learning and AI to simulate a variety of routes and picks the best ones. According to a company forecast, the platform could save UPS 100 to 200 million.
+
+Not only it can be use to save money, companies can also used it to be able to have the maximum profit. This is most prevalent online where a lot of data and statistics are used to determine what kind of advertisment that will be shown and how to retain the most amount of time
+
+Another field in which it can be used is in sports. One of this is RSPCT: BASKETBALL-COACHING SENSOR. RSPCT’s shooting analysis system tracked and record when and where the ball strikes on each basket attempt by using sensor on a basketball hoop’s rim. It funnels that data to a device that displays shot details in real time and generates predictive insights.
+
+Lastly it can be used by the goverment to help secure the country. This example was done in the USA wherein 
+the U.S. Immigrations and Customs Enforcement uses facial recognition to deport undocumented immigrants
+
+
+## Proposal
+
+    A chatbot is a software application used to conduct an online chat conversation via text or text-to-speech instead of a human. I chose this because of how prevalent chatbots arein todays society and how customizable it is. It can be used to help us in alot of things like automating tasks, act as a communication medium and to even use as a mean to play games. 
+
+Since a chatbot is very customizable to whatever the programmer's goal, there are many kinds data that can be used into making the bot. Even if there are not that many data available, the more people uses and input information into the bot it itself can be the source of data into which it can improve on. Some of the statistical method that can be use are surveys which can be use to improve the bot, cluster sampling and Sample Size Determination to have a data on which the bot will be exposed to and Regression to determining trends over time, connections that which will help the bot not be outdated and up to date with whats happening with the world.
