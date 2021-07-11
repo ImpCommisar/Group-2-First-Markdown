@@ -50,16 +50,13 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 It can be used in business where it can help the company save money. An example of this is the Network Planning Tool that UPS use to optimize package transport from drop-off to delivery. It does this by using machine learning and AI to simulate a variety of routes and picks the best ones. According to a company forecast, the platform could save UPS 100 to 200 million.
 
-Not only it can be use to save money, companies can also used it to be able to have the maximum profit. This is most prevalent online where a lot of data and statistics are used to determine what kind of advertisment that will be shown and how to retain the most amount of time in the site.
+Not only it can be use to save money, companies can also used it to be able to have the maximum profit. This is most prevalent online where a lot of data and statistics are used to determine what kind of advertisment that will be shown and how to retain the most amount of time
 
 Another field in which it can be used is in sports. One of this is RSPCT: BASKETBALL-COACHING SENSOR. RSPCT’s shooting analysis system tracked and record when and where the ball strikes on each basket attempt by using sensor on a basketball hoop’s rim. It funnels that data to a device that displays shot details in real time and generates predictive insights.
 
 Lastly it can be used by the goverment to help secure the country. This example was done in the USA wherein 
 the U.S. Immigrations and Customs Enforcement uses facial recognition to deport undocumented immigrants
 
-SOVRN: AUTOMATED AD PLACEMENT
-
-Deepfake
 
 ## Proposal
 
