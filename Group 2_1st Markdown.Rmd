@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = TRUE)
   	
 - Javier 
   		
-  In the modern world, data mining is essential knowledge. We are in an age where information is large in quantity and widespread throughout the known world. To process this amount of data is what data mining does. In order to organize the entire procedure, I think graphs like histograms are needed. This is an incredible venture and requires clear models to make correct conclusions. However, there is still much data/research for this particular field, which can help me in learning whatever needs to be known about it. Large companies will most likely benefit from this study.  They are often associated with a large amount of clientele and assets. There will be a huge amount of information that comes from this and there will be a demand for experts to sort this through.
+  In the modern world, data mining is essential knowledge. We are in an age where information is large in quantity and widespread throughout the known world. To process this amount of data is what data mining does.Further innovations in to this field will help in making more accurate reads and analysis on data. Graphs can be a first step towards that venture. Perhaps looking into examples like histograms can help me improve on existing models or come up with new ones. However, there is still much research done from past data scientists for this particular field, which can help me in learning whatever needs to be known about it. Large companies will most likely benefit from this study.  They are often associated with a large amount of clientele and assets. There will be a huge amount of information that comes from this and there will be a demand for experts to sort this through.
 
 
 ```{r cars}
