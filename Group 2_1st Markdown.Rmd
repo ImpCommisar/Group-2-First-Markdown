@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 1) Aside from the reasons mentioned in class, why do we need to study and analyze data?
 
-- Javier David Bolong
+- Javier
 
 	Data in essence is information grouped together in the form of statistics and graphs. Being able to analyze what the meaning is behind all of the numbers, means more knowledge in the topic the data pertains too. With this, people can make decisions to adapt to the information given. Without people with the skills in interpreting data correctly, the people who need it will take unguided actions, leading to mistakes and accidents in the future. 
 	
