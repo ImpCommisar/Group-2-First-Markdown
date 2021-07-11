@@ -21,13 +21,13 @@ knitr::opts_chunk$set(echo = TRUE)
 	
 2) Cite at least one instance or application where data science was used and contributed on policy-making, day-to-day decisions, knowing market trends, and scientific researches.
   
-- Javier David Bolong
+- Javier 
   
   Data Science was used in helping governments to make proper policies to adapt to the pandemic. One specific instance is lifting certain restrictions of quarantine here in the Philippines. Due to the nature of the virus, the government had to take necessary action to limit human traffic, negatively affecting many businesses which in turn negatively affect the economy. Data/statistics on the state of the pandemic were constantly being updated monthly. With the help of some experts, the government deduced it was time to start allowing non-essential businesses to function to a limited degree.  Without data scientists, the government might have done this in a worse time, worsening the already dire situation of the COVID-19 pandemic. 
   	
 3) Propose atleast one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.
   	
-- Javier David Bolong
+- Javier 
   		
   In the modern world, data mining is essential knowledge. We are in an age where information is large in quantity and widespread throughout the known world. To process this amount of data is what data mining does. In order to organize the entire procedure, I think graphs like histograms are needed. This is an incredible venture and requires clear models to make correct conclusions. However, there is still much data/research for this particular field, which can help me in learning whatever needs to be known about it. Large companies will most likely benefit from this study.  They are often associated with a large amount of clientele and assets. There will be a huge amount of information that comes from this and there will be a demand for experts to sort this through.
 
